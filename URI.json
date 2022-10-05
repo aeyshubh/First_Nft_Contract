@@ -1,0 +1,28 @@
+{
+  "description": "An Nft Avatar created by @xsgames_", 
+  "external_url": "https://stalknfts-axya6o.spheron.app/", 
+  "image": "https://ipfs.filebase.io/ipfs/QmSgGjmqiTMaae7Bc3byj4WPoDEYbDenbNCpB6FGhBCanN", 
+  "name": "Azuki",
+"attributes": [
+    {
+      "trait_type": "Art Type:", 
+      "value": "Azuki"
+    }, 
+    {
+      "trait_type": "Rarity", 
+      "value": "99.9%"
+    },
+  {
+      "trait_type": "Hotness", 
+      "value": "99.9%"
+    },
+  {
+      "trait_type": "Check Nft here :", 
+      "value": "https://stalknfts-axya6o.spheron.app/"
+    },
+    {
+      "trait_type": "Total Supply", 
+      "value": "1"
+    }
+]
+}
