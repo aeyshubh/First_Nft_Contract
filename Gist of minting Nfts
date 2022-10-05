@@ -1,0 +1,9 @@
+Create a contract on open ziplin and modify it 
+Upload NFT image in Filebase 
+copy url of the uploaded file (IPFS Gateway URL)
+Create a URI json 
+Add the Image URL in it and other features 
+upload the URI file on filebase
+copy CID of that file and use it to mint in the contract in the below format:
+ipfs://CID
+Minting success ,check on Opensea Testnet 
